@@ -1,5 +1,4 @@
-# Advent of Code 2021
-## Rust edition
+# Advent of Code 2021: Rust edition
 
 https://adventofcode.com/2021
 
